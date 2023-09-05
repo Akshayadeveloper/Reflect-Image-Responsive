@@ -17,7 +17,7 @@ img {
   cursor: pointer;
   display: inline-flex;
   font-family: "JetBrains Mono",monospace;
-  height: 34px;
+  height:48px;
   justify-content: center;
   line-height: 1;
   list-style: none;
@@ -33,7 +33,7 @@ img {
   touch-action: manipulation;
   white-space: nowrap;
   will-change: box-shadow,transform;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .header:focus {
@@ -54,6 +54,6 @@ img {
 }
   p{ 
     padding :10px;
-    margin-top:200px;
-    margin-left:30px;    
+    margin-top:300px;
+    margin-left:50px;    
   }
