@@ -6,8 +6,6 @@ img {
 }
   /* Heading style */
   .header{
-  margin-left: auto;
-  margin-right: auto;
   align-items: center;
   appearance: none;
   background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
@@ -35,7 +33,7 @@ img {
   touch-action: manipulation;
   white-space: nowrap;
   will-change: box-shadow,transform;
-  font-size: 22px;
+  font-size: 42px;
 }
 
 .header:focus {
@@ -52,11 +50,13 @@ img {
   transform: translateY(2px);
 }  
 .header{
-  margin-left:40px; 
+   
+  margin-left: auto;
+  margin-right: auto;
 }
   p{ 
     padding :10px;
-    margin-top:500px;
-    margin-left:100px;  
-    font-size:20px;
+    margin-top:1000px;
+    margin-left:300px;  
+    font-size:50px;
   }
